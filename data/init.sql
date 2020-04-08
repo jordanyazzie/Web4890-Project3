@@ -1,0 +1,6 @@
+use W01149488;
+
+CREATE TABLE calculator (
+    id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    problem VARCHAR(50) NOT NULL,
+  );
