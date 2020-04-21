@@ -102,7 +102,7 @@ echo "<input type=\"hidden\" name=\"stored\" value=\"$display\">";
 echo "</form>";
 echo "</div>";
 ?>
-
+<!--The rest of the application-->
 <div class="col-sm">
     <form method="post">
         <input class="btn text-white btn-active  btn-submit mb-1 w-100" type="submit" name="clear" value="clear">
